@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-core Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rohitkumar.singh
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
